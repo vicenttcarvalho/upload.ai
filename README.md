@@ -1,7 +1,7 @@
 #  Project to create description and titles for videos using AI
 
 ## Upload AI
-<img src="https://github.com/vicenttcarvalho/assets/blob/main/upload-ai2.0.png" alt="Upload AI">.
+<img src="https://github.com/vicenttcarvalho/assets/blob/main/upload-ai2.0.png" alt="Upload AI">;
 
 ## Step by step
 
@@ -17,7 +17,7 @@
 
 6. Finally, run the process to get the AI-generated title or description.
    
-<img src="https://github.com/vicenttcarvalho/assets/blob/main/passo-a-passo.png" alt="Step by step">.
+<img src="https://github.com/vicenttcarvalho/assets/blob/main/passo-a-passo.png" alt="Step by step">;
 
 ## Result
-<img src="https://github.com/vicenttcarvalho/assets/blob/main/resultado-upload-ai.png" alt="Result">
+<img src="https://github.com/vicenttcarvalho/assets/blob/main/resultado-upload-ai.png" alt="Result">;
